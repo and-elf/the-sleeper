@@ -12,6 +12,8 @@ The name itself comes both from how non-descript it looks in relation to how pow
 By transplanting ESP32-LyraT into a nice case with everything you need to listen to audio, there is no end to for what the platform can be used. See [esp-adf](https://github.com/espressif/esp-adf) for more examples. 
 
 ## Core features
+- [ ] Play audio
+
 - [ ] Configure WiFi settings
 
 - [ ] Configure button functions
@@ -24,18 +26,34 @@ By transplanting ESP32-LyraT into a nice case with everything you need to listen
 
 - [ ] App notifications
 
+- [ ] Choose artist
+
+## Button functions
+- Audio related; play, pause, stop, next, previous, volume up/down
+- Headset related; Mute/unmute, answer call, hang up call 
+
+## Ideas
+- [ ] Headset profile
+
+- [ ] Smart speaker functionality?
+
+> - [ ] 'Hi, Sleeper' or 'Good morning, Sleeper' custom keyword - really expensive
+
+- [ ] Extreme low-power mode
+
+- [ ] Automatic cache
+
+- [ ] Child lock
+
+- [ ] Internet radio
+
+- [ ] A2DP source
+
+- [ ] A2DP sink
+
 - [ ] Download new material
 
 - [ ] Automatically download new material
-
-- [ ] Choose artist
-
-## Ideas
-- [ ] Smart speaker functionality?
-
-> - [ ] 'Hi, Sleeper' or 'Good morning, Sleeper' custom keyword
-
-- [ ] Extreme low-power mode
 
 # **Bottom line**
 No programming required - everything is handled through the app
